@@ -18,7 +18,5 @@ return array(
 		array( 'Bytte tak på mitt lager mycket bra jobb och service rekommendera att jobba med detta företag starkt tack för allt :)', 'HD Frukt&Grönt', 'för ett år sedan' ),
 		array( 'Svarar snabbt på offerter och gör ett utmärkt jobb. Kan rekommenderas.', 'Henrik Gustafson', 'för 5 år sedan' ),
 	),
-	'bild_hero'      => 'foto-1.jpg',
-	'bilder'         => array( 'foto-2.jpg', 'foto-3.jpg', 'foto-4.jpg' ),
 	'ar_riktig'      => true,
 );
