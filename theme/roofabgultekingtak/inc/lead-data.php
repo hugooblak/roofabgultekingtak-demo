@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Roofab Gulteking Tak AB',
+	'bransch'        => 'Takläggare',
 	'telefon'        => '072-333 49 99',
 	'telefon_tel'    => '+46723334999',
 	'ort'            => 'Jönköping',
